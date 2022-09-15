@@ -1,5 +1,5 @@
 ## Oi meu nome é Daniel Junior!
-Estudando: JavaScript e NodeJs
+👨‍🎓 Estudando: JavaScript e NodeJs
 <div align="center">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=djuniorr&show_icons=true&theme=radical"/>
