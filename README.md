@@ -1,8 +1,8 @@
 ## Oi meu nome é Daniel Junior!
 Estudando: JavaScript e NodeJs
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="160em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djuniorr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
