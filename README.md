@@ -2,7 +2,7 @@
 Estudando: JavaScript e NodeJs
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=djuniorr&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djuniorr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
