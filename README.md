@@ -1,5 +1,5 @@
 ## Oi meu nome é Daniel Junior!
-🔥 Estudando: JavaScript e NodeJs<br>
+🔥 Estudando: JavaScript e React<br>
 🔥 Albert Einstein "Nunca memorize algo que não possa pesquisar."
 <div align="center">
 
